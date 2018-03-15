@@ -2,7 +2,7 @@ RENTAL  APPLICATION
 
  === === Contributor === 
 
-PRASHANT JOSHI|| 820277231
+PRASHANT JOSHI|| 
 
  === Description === 
 This application is designed for rental service where user who wants to give there home on rent can post an advertisement and user who want to search for properties can do so.
@@ -28,5 +28,4 @@ This application is designed for rental service where user who wants to give the
 3) Rating can also be included on the basis of area. 
 
  === Known Bugs === 
-1) No notification to user once it picks the location from map while posting his advertisement.
-2)It takes time to post, progress view is missing.
+1) It takes time to post, progress view is missing.
